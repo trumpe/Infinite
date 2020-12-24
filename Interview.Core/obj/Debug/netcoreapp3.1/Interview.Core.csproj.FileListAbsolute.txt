@@ -1,0 +1,12 @@
+C:\Users\Trumpeski\source\repos\Infinite\Interview.Core\bin\Debug\netcoreapp3.1\Interview.Core.deps.json
+C:\Users\Trumpeski\source\repos\Infinite\Interview.Core\bin\Debug\netcoreapp3.1\Interview.Core.dll
+C:\Users\Trumpeski\source\repos\Infinite\Interview.Core\obj\Debug\netcoreapp3.1\Interview.Core.AssemblyInfoInputs.cache
+C:\Users\Trumpeski\source\repos\Infinite\Interview.Core\obj\Debug\netcoreapp3.1\Interview.Core.AssemblyInfo.cs
+C:\Users\Trumpeski\source\repos\Infinite\Interview.Core\obj\Debug\netcoreapp3.1\Interview.Core.csprojAssemblyReference.cache
+C:\Users\Trumpeski\source\repos\Infinite\Interview.Core\bin\Debug\netcoreapp3.1\Interview.Core.runtimeconfig.json
+C:\Users\Trumpeski\source\repos\Infinite\Interview.Core\bin\Debug\netcoreapp3.1\Interview.Core.runtimeconfig.dev.json
+C:\Users\Trumpeski\source\repos\Infinite\Interview.Core\obj\Debug\netcoreapp3.1\Interview.Core.genruntimeconfig.cache
+C:\Users\Trumpeski\source\repos\Infinite\Interview.Core\bin\Debug\netcoreapp3.1\Interview.Core.pdb
+C:\Users\Trumpeski\source\repos\Infinite\Interview.Core\obj\Debug\netcoreapp3.1\Interview.Core.dll
+C:\Users\Trumpeski\source\repos\Infinite\Interview.Core\obj\Debug\netcoreapp3.1\Interview.Core.pdb
+C:\Users\Trumpeski\source\repos\Infinite\Interview.Core\obj\Debug\netcoreapp3.1\Interview.Core.csproj.CoreCompileInputs.cache
